@@ -1,5 +1,23 @@
 [
     {
+        "title": "Elegir el martillo adecuado para bricolaje y construccion",
+        "description": "Descubre los tipos de martillos y como seleccionar el adecuado para tus proyectos",
+        "image": "images\/como-elegir-el-martillo-adecuado-art.jpg",
+        "images": [
+            "images\/como-elegir-el-martillo-adecuado-art.jpg"
+        ],
+        "url": "https:\/\/www.ferreteriaukra.cl\/blog\/como-elegir-el-martillo-adecuado\/",
+        "page": "https:\/\/ukrabot.github.io\/ferreteriaukra-gallery\/p\/como-elegir-el-martillo-adecuado-art.html",
+        "tags": [
+            "bricolaje",
+            "construcción",
+            "DIY",
+            "ferretería",
+            "herramientas"
+        ],
+        "date": "2026-05-26"
+    },
+    {
         "title": "Como pintar autos con sistema HVLP eficiente",
         "description": "Descubre los secretos para pintar autos con sistema HVLP y obtener un acabado de alta calidad",
         "image": "images\/como-pintar-autos-con-sistema-hvlp-art.jpg",
